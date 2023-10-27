@@ -30,10 +30,15 @@ I propose leveraging ChatGPT's Advanced Data Analysis to analyze strokes gained 
 
 ### Project Outline and Timeline
 Data Collection and Pre-processing (10/27 - 11/1): Gather KPMG Performance Insights from all 2023 LPGA tournaments through October 8's "The Ascendant LPGA". Clean, structure, and prepare the data for analysis, including handling missing values, outliers, and normalization.
+
 Initial Model Selection with ChatGPT (11/2 - 11/6): Introduce the cleaned data to ChatGPT, allowing it to analyze and recommend an initial best-fit data analysis method.
+
 Model Tuning (11/7 - 11/13): Refine and optimize the initially chosen model, adjusting parameters and features to enhance prediction accuracy.
+
 Prediction (11/4 - 11/20): Utilize the tuned model to forecast finishes for the final 6 LPGA events of the season (October 14's "Buick LPGA Shanghai" - November 19's "CME Group Tour Championship".
+
 Validation (11/21 - 11/28): Compare predictions with actual outcomes to assess the model's accuracy and effectiveness.
+
 Finalization (11/29 - 11/30): Consolidate findings and refine the model based on validation feedback.
 
 ## Goals of project 
