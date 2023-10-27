@@ -54,28 +54,28 @@ Describe 1-5 goals of the project.
 
 1. Accuracy in Predicting the #1 Player:
    
-A: Model predicts the #1 player in its top 30, 4/6 times or more.
+         A: Model predicts the #1 player in its top 30, 4/6 times or more.
 
-B: Model predicts the #1 player in its top 30, 3/6 times.
+         B: Model predicts the #1 player in its top 30, 3/6 times.
 
-C: Model predicts the #1 player in its top 30, 2/6 times.
+         C: Model predicts the #1 player in its top 30, 2/6 times.
 
-D: Model predicts the #1 player in its top 30, 1/6 times.
+         D: Model predicts the #1 player in its top 30, 1/6 times.
 
-F: Model never predicts the #1 player in its top 30 in 6 attempts.
+         F: Model never predicts the #1 player in its top 30 in 6 attempts.
 
 
 3. Accuracy in Predicting the Tournament's Top 10:
    
-A: For at least 4/6 tournaments, the model places 3 of the actual top 10 finishers within its top 40 predicted players.
+         A: For at least 4/6 tournaments, the model places 3 of the actual top 10 finishers within its top 40 predicted players.
 
-B: For 3/6 tournaments, the model places 3 of the actual top 10 finishers within its top 40 predicted players.
+         B: For 3/6 tournaments, the model places 3 of the actual top 10 finishers within its top 40 predicted players.
 
-C: For 2/6 tournaments, the model places 3 of the actual top 10 finishers within its top 40 predicted players.
+         C: For 2/6 tournaments, the model places 3 of the actual top 10 finishers within its top 40 predicted players.
 
-D: For 1/6 tournaments, the model places 3 of the actual top 10 finishers within its top 40 predicted players.
+         D: For 1/6 tournaments, the model places 3 of the actual top 10 finishers within its top 40 predicted players.
 
-F: The model never places 3 of the actual top 10 finishers within its top 40 predicted players.
+         F: The model never places 3 of the actual top 10 finishers within its top 40 predicted players.
 
 
 ## Self-Evaluation
