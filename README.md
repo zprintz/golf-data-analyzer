@@ -51,8 +51,7 @@ Describe 1-5 goals of the project.
 
 ## Project Metrics 
 **Due October 26, 11:59pm**
-
-1. Accuracy in Predicting the #1 Player:
+   1. Accuracy in Predicting the #1 Player:
    
          A: Model predicts the #1 player in its top 30, 4/6 times or more.
 
@@ -65,7 +64,7 @@ Describe 1-5 goals of the project.
          F: Model never predicts the #1 player in its top 30 in 6 attempts.
 
 
-3. Accuracy in Predicting the Tournament's Top 10:
+   2. Accuracy in Predicting the Tournament's Top 10:
    
          A: For at least 4/6 tournaments, the model places 3 of the actual top 10 finishers within its top 40 predicted players.
 
