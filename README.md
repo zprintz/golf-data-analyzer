@@ -29,7 +29,7 @@ Professional golf is extremely difficult to predict. There is a high level of va
 I propose leveraging ChatGPT's Advanced Data Analysis to analyze strokes gained data. Strokes gained data is made available through KPMG Performance Insights and measures each golfer's performance compared to that of the average professional. Instead of pre-selecting a statistical method, ChatGPT will autonomously determine the optimal analysis approach, whether linear regression, random forest, or another method. This dynamic model selection, tailored to the data's specificities, aims to enhance prediction accuracy for future LPGA tournaments.
 
 ### Project Outline and Timeline
-Data Collection and Pre-processing (10/27 - 11/1): Gather KPMG Performance Insights from all 2023 LPGA tournaments through October 8's "The Ascendant LPGA". Clean, structure, and prepare the data for analysis, including handling missing values, outliers, and normalization.
+Data Collection and Pre-Processing (10/27 - 11/1): Gather KPMG Performance Insights from all 2023 LPGA tournaments through October 8's "The Ascendant LPGA". Clean, structure, and prepare the data for analysis, including handling missing values, outliers, and normalization.
 
 Initial Model Selection with ChatGPT (11/2 - 11/6): Introduce the cleaned data to ChatGPT, allowing it to analyze and recommend an initial best-fit data analysis method.
 
