@@ -66,15 +66,15 @@ Describe 1-5 goals of the project.
 
    2. Accuracy in Predicting the Tournament's Top 10:
    
-         A: For at least 4/6 tournaments, the model places 3 of the actual top 10 finishers within its top 40 predicted players.
+         A: For at least 4/6 tournaments, the model places 3 or more of the actual top 10 finishers within its top 40 predicted players.
 
-         B: For 3/6 tournaments, the model places 3 of the actual top 10 finishers within its top 40 predicted players.
+         B: For 3/6 tournaments, the model places 3 or more of the actual top 10 finishers within its top 40 predicted players.
 
-         C: For 2/6 tournaments, the model places 3 of the actual top 10 finishers within its top 40 predicted players.
+         C: For 2/6 tournaments, the model places 3 or more of the actual top 10 finishers within its top 40 predicted players.
 
-         D: For 1/6 tournaments, the model places 3 of the actual top 10 finishers within its top 40 predicted players.
+         D: For 1/6 tournaments, the model places 3 or more of the actual top 10 finishers within its top 40 predicted players.
 
-         F: The model never places 3 of the actual top 10 finishers within its top 40 predicted players.
+         F: The model never places 3 or more of the actual top 10 finishers within its top 40 predicted players.
 
 
 ## Self-Evaluation
